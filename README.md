@@ -1,4 +1,4 @@
-# 🇨🇦 Canada CO₂ Emissions Analysis
+# Canada CO₂ Emissions Analysis
 
 ## 🌍 Project Overview
 
