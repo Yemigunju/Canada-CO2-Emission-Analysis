@@ -47,7 +47,3 @@ This project explores Canada's CO₂ emissions over time, analyzing trends relat
 Canada has made progress toward reducing emissions, particularly through policy reforms and renewable energy investments. However, significant reliance on fossil fuels persists. Data indicates that stronger measures targeting clean energy adoption, improved fuel efficiency, and behavior change are crucial for achieving long-term sustainability goals.
 
 ---
-
-## 🚀 Future Work
-
-- Comparative analysis with other G7 countries' emissions
